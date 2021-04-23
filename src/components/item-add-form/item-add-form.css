@@ -1,0 +1,9 @@
+.item-add-form {
+  margin-top: 10px;
+}
+
+.item-add-form .btn {
+  width: 120px;
+  margin-left: 10px;
+  font-size: 15px;
+}
